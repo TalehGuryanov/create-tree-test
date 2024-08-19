@@ -5,5 +5,5 @@ export const API_USER_TREE_NODE_DELETE = 'https://test.vmarmysh.com/api.user.tre
 export const API_USER_TREE_NODE_RENAME = 'https://test.vmarmysh.com/api.user.tree.node.rename';
 export const TREE_NAME = 'someuniqnewtreename2208';
 export const ADD_ACTION = 'add';
-export const REMOVE_ACTION = 'remove';
+export const DELETE_ACTION = 'delete';
 export const RENAME_ACTION = 'rename';
