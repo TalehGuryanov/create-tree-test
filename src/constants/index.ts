@@ -1,0 +1,9 @@
+export const PROXY_URL = 'http://localhost:3001/proxy';
+export const API_USER_TREE_GET = 'https://test.vmarmysh.com/api.user.tree.get';
+export const API_USER_TREE_NODE_CREATE = 'https://test.vmarmysh.com/api.user.tree.node.create';
+export const API_USER_TREE_NODE_DELETE = 'https://test.vmarmysh.com/api.user.tree.node.delete';
+export const API_USER_TREE_NODE_RENAME = 'https://test.vmarmysh.com/api.user.tree.node.rename';
+export const TREE_NAME = 'someuniqnewtreename2208';
+export const ADD_ACTION = 'add';
+export const REMOVE_ACTION = 'remove';
+export const RENAME_ACTION = 'rename';
